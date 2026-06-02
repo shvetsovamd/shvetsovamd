@@ -42,7 +42,7 @@
 ### 📫 Как со мной связаться
 
 - 📧 **Email:** [shvetsovamd@yandex.ru](mailto:shvetsovamd@yandex.ru)
-- ✈️ **Telegram:** [@shvetsovamd]
+- ✈️ **Telegram:** [@shvetsovamd](http://t.me/shvetsovamd)
 - 💼 **LinkedIn:** [ссылка_на_профиль]
 
 ---
