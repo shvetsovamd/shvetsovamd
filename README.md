@@ -1,16 +1,52 @@
-## Hi there 👋
+## Привет! Я Маша 👋
 
-<!--
-**shvetsovamd/shvetsovamd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Python Developer / Data Engineer / Data Analyst** с опытом промышленной разработки в инфраструктурных командах и продуктовом анализе. Постоянно расширяю стек в сторону Data Engineering (Big Data пайплайны) и Deep Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Мой стек технологий
+
+- **Языки:** Python (ООП, Асинхронность, Тестирование), SQL, C++, R, JavaScript
+- **Data Engineering & Инфраструктура:** Hadoop, MapReduce, Hive, Spark, Kafka, Apache Airflow, Docker, Kubernetes, HDFS, CI/CD
+- **Базы данных & Хранилища:** PostgreSQL, ClickHouse, YQL, MySQL, S3, Parquet
+- **Фреймворки & Библиотеки:** FastAPI, Flask, Django, Pandas, NumPy, Scikit-learn, PyTorch
+- **Инструменты:** Grafana, DBeaver, Git, Bash, Jira
+
+---
+
+### 💼 Опыт работы и проекты
+
+- **Yandex (Стажер-разработчик, команда инфраструктуры браузера):** Автоматизировала аудит безопасности кода, оптимизировала ETL-процедуры мониторинга (миграция, SQL-аналитика неактивных партнеров), внедряла CI/CD процессы и безопасный деплой (dry-run режим).
+- **GlowByte (Младший разработчик, отдел развития продуктов):** Анализировала производительность ETL-пайплайнов, внедряла мониторинг-дашборды (Grafana), автоматизировала развертывание скриптов в Docker и K8s.
+- **Yandex (Стажер-разработчик, команда антиспама):** Разрабатывала парсеры данных (BeautifulSoup), проектировала инструменты синхронизации очередей и валидации JSON, расширяла логику внутреннего поискового движка.
+
+---
+
+### 🏆 Достижения и Хакатоны
+
+- 🥇 **Победитель** хакатона «Хакатон Рекламы и Ecom-сценариев» (2025) — разработка бэкенда для автоматизации бизнес-процессов с интеграцией GPT.
+- 🥈 **2-е место** на VK x HSE Data Hack (2024) — проектирование системы интеллектуальной разметки контента для медиапроектов VK.
+- 🥉 **Призер** RuCode.ФИНАЛ (2024) в треке «Алгоритмическое программирование».
+- 🏅 **Победитель** осеннего тура XXXIX Международного математического Турнира городов.
+
+---
+
+### 📚 Образование и Курсы
+
+- **РТУ МИРЭА** — Бакалавр, Прикладная математика и анализ данных (2020 – 2024)
+- **Deep Learning School, ФПМИ МФТИ** (2026) — CV, Classical ML, Архитектуры нейросетей
+- **Т-Образование** (2026) — Базовый курс по анализу данных (A/B тесты, мат. статистика)
+
+---
+
+### 📫 Как со мной связаться
+
+- 📧 **Email:** [shvetsovamd@yandex.ru](mailto:shvetsovamd@yandex.ru)
+- ✈️ **Telegram:** [@shvetsovamd]
+- 💼 **LinkedIn:** [ссылка_на_профиль]
+
+---
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
