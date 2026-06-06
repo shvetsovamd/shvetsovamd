@@ -46,5 +46,4 @@
 - 💼 **LinkedIn:** [ссылка_на_профиль]
 
 ---
-![Profile Views](https://shvetsovamd.com)
-
+![Profile Views](https://komarev.com)
