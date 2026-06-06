@@ -46,4 +46,4 @@
 - 💼 **LinkedIn:** [ссылка_на_профиль]
 
 ---
-![Profile Views](https://komarev.com)
+![](https://komarev.com/ghpvc/?username=shvetsovamd&label=PROFILE+VIEWS)
