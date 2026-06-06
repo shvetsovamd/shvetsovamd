@@ -46,7 +46,5 @@
 - 💼 **LinkedIn:** [ссылка_на_профиль]
 
 ---
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+![Profile Views](https://shvetsovamd.dev)
 
