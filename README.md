@@ -46,5 +46,5 @@
 - 💼 **LinkedIn:** [ссылка_на_профиль]
 
 ---
-![Profile Views](https://shvetsovamd.dev)
+![Profile Views](https://shvetsovamd.com)
 
