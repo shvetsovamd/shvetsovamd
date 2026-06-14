@@ -51,10 +51,10 @@
 
 <p align="left">
   <!-- Карточка основной статистики -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://shvetsovamd/?username=shvetsovamd" alt="GitHub Stats" height="180" />
   
   <!-- Карточка используемых языков -->
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
+  <img src="https://vercel.app/?username=shvetsovamd" alt="Top Langs" height="180" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=shvetsovamd&label=PROFILE+VIEWS)
