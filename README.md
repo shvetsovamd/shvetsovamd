@@ -49,12 +49,15 @@
 ---
 ### Моя статистика GitHub
 
+### Моя статистика GitHub
+
 <p align="left">
   <!-- Карточка основной статистики -->
-  <img src="https://vercel.app/?username=shvetsovamd" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shvetsovamd&show_icons=true&bg_color=21262d&title_color=f0883e&text_color=c9d1d9&icon_color=f0883e" alt="GitHub Stats" height="195" />
   
   <!-- Карточка используемых языков -->
-  <img src="https://vercel.app/?username=shvetsovamd" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvetsovamd&layout=compact&bg_color=21262d&title_color=f0883e&text_color=c9d1d9" alt="Top Langs" height="195" />
 </p>
+
 
 ![](https://komarev.com/ghpvc/?username=shvetsovamd&label=PROFILE+VIEWS)
