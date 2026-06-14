@@ -49,8 +49,6 @@
 ---
 ### Моя статистика GitHub
 
-### Моя статистика GitHub
-
 <p align="left">
   <!-- Карточка основной статистики -->
   <img src="https://github-readme-stats.vercel.app/api?username=shvetsovamd&show_icons=true" alt="GitHub Stats" height="195" />
