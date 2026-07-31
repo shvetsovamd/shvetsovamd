@@ -7,10 +7,10 @@
 ### 🔥 Мой стек технологий
 
 - **Языки:** Python (ООП, Асинхронность, Тестирование), SQL, C++, R, JavaScript
-- **Data Engineering & Инфраструктура:** Hadoop, MapReduce, Hive, Spark, Kafka, Apache Airflow, Docker, Kubernetes, HDFS, CI/CD
-- **Базы данных & Хранилища:** PostgreSQL, ClickHouse, YQL, MySQL, S3, Parquet
+- **Data Engineering & Инфраструктура:** Hadoop, MapReduce, Hive, Spark, Kafka, Apache Airflow, Docker, Kubernetes, HDFS, CI/CD, Jenkins, Bitbucket
+- **Базы данных & Хранилища:** Greenplum, PostgreSQL, ClickHouse, YQL, MySQL, S3, Parquet
 - **Фреймворки & Библиотеки:** FastAPI, Flask, Django, Pandas, NumPy, Scikit-learn, PyTorch
-- **Инструменты:** Grafana, DBeaver, Git, Bash, Jira
+- **Инструменты:** Grafana, DBeaver, Git, Bash, Jira, Confluence
 
 ---
 
@@ -38,7 +38,7 @@
 - **Deep Learning School, ФПМИ МФТИ** (2026) — CV, Classical ML, Архитектуры нейросетей
 - **Центральный университет & Авито** (2026) — Интенсив по продуктовой аналитике (исследование [продуктовой гипотезы](https://github.com/shvetsovamd/Avito-Product-case))
 - **Т-Образование** (2026) — Базовый курс по анализу данных (A/B тесты, мат. статистика), курс по нейросетям (нейронные сети)
-- **Центральный университет** (2025) — Буткемп по разработке (создание аналога виртуальной доски Miro [CU:Create/Miro Clone](https://github.com/shvetsovamd/Miro))
+- **Центральный университет** (2025) — Буткемп по разработке (создание [аналога](https://github.com/shvetsovamd/Miro) виртуальной доски Miro)
 - **Яндекс Образование** (2023) — Тренировки по алгоритмам 4.0 (сортировки, хеширование строк, кратчайшие пути во взвешенных графах, оптимизация перебора)
 
 ---
